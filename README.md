@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ **Tech Stack & Skills**  
+## 🖥️ **Tech Stack & Skills**  
 
 ### **Front-End**
 <div>
