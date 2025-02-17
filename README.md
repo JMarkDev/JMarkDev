@@ -81,8 +81,8 @@ Want to collaborate or just say hi? Feel free to reach out!
 ---
 
 ## 💡 **Random Quote**  
-> "The best way to predict the future is to create it." – Peter Drucker  
+> "The only way to do great work is to love what you do." – Steve Jobs  
 
-<p align="center">
+<p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
