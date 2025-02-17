@@ -51,7 +51,8 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/josiel-mark-seroy-0a9341245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+
   </a>
   <a href="https://www.dribbble.com/JMarkDev" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-pink?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
