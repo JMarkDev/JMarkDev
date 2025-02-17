@@ -29,12 +29,22 @@
   <a href="https://socket.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/socket-colored.svg" width="36" height="36" alt="Socket.IO" /></a>
 </p>
 
-### **Tools & DevOps**  
+### **Tools**  
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-  <a href="https://jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" width="36" height="36" alt="Jest" /></a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VS Code" />
+  </a>
+  <a href="https://www.mysql.com/products/workbench/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="50" height="36" alt="MySQL Workbench" />
+  </a>
 </p>
+
 
 ---
 
