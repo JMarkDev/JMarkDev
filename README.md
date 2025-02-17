@@ -59,10 +59,10 @@
 
   </a>
   <a href="https://www.dribbble.com/JMarkDev" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-pink?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
   </a>
   <a href="https://www.facebook.com/people/Josiel-Mark-Miel-Seroy/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.github.com/jmarkdev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
