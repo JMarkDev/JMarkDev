@@ -10,7 +10,7 @@
 
 ### **Front-End**
 <div id="badges">
-  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
 
 </div>
 <p align="left">
