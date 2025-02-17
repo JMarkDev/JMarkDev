@@ -1,7 +1,6 @@
 # Hi 👋 I'm Josiel Mark M. Seroy  
 ### 🚀 Full-Stack Web Developer | Building Scalable & Intuitive Web Solutions  
 
-- 🌍 Based in **Philippines**  
 - 🖥️ Check out my portfolio: [MyPortfolio](http://jmarkdev.github.io/portfolio)  
 - ✉️ Reach me at: [jmseroy@gmail.com](mailto:jmseroy@gmail.com)  
 
@@ -57,6 +56,11 @@
   <a href="https://www.github.com/jmarkdev" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/josiel-mark-seroy-0a9341245/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 ---
 
