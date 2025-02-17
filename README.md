@@ -81,10 +81,8 @@ Want to collaborate or just say hi? Feel free to reach out!
 ---
 
 ## 💡 **Random Quote**  
-## 💡 **Inspiration**  
-> "The only way to do great work is to love what you do." – Steve Jobs  
 
-<p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteType=quote-for-the-day" alt="Motivational Quote" />
+<p>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteType=random" alt="Motivational Quote" />
 </p>
 
